@@ -5,15 +5,13 @@ date: 2026-04-11T22:01:51-03:00
 image: VostokBanner.jpg
 math: 
 license: 
-
+draf: false
 comments: true
 
 build: 
     list: always 
 categories:
-    - Gaming 
-tags:
-    - Gaming  # Change to "never" to hide the page from the list
+    - Gaming  
 ---
 
 Mic check mic check... Is this thing working...? Ahem!
