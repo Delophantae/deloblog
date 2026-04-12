@@ -83,4 +83,6 @@ Speaking of shelters, they are one of the highlights of the came since they are 
 
 ![The Generalist's attic](Shelter.jpg)
 
-I think this is the part of the game where i've spent the most time, tidying up my shelter and moving furniture around really makes them feel like my own which is amazing.
+I think this is the part of the game where i've spent the most time, tidying up my shelter and moving furniture around really makes them feel like my own which is amazing. 
+
+Teste
