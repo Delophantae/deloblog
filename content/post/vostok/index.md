@@ -8,7 +8,7 @@ license:
 
 comments: true
 
-build:
+build: 
     list: always 
 categories:
     - Gaming 
